@@ -5,6 +5,8 @@
 
 ![image alt](https://github.com/Shivam4605/Quiz_App/blob/main/Screenshot%202025-08-28%20235052.png)
 
+![image alt](https://github.com/Shivam4605/Quiz_App/blob/main/Screenshot%202025-08-28%20235125.png)
+
 The Quiz App is a cross-platform mobile application built with Flutter. It provides an interactive way to test your knowledge through multiple-choice questions. Designed with a clean UI and smooth navigation, this app is suitable for learning, self-testing, or just having fun with quizzes.
 
  ********** ✨ Features  **********
